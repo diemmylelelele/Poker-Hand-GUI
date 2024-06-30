@@ -1,3 +1,5 @@
+
+https://github.com/diemmylelelele/Poker-Hand-GUI/assets/119517712/365dde27-3d3d-4e2c-9893-f81cfa05ca01
 # Poker-Hand-GUI
 
 This Java project implements a graphical user interface (GUI) application for learning and comparing poker hand categories. The project consists of four main files: PokerHand_1.java, Guide.java, Settings.java, and Menu.java. Each file serves a specific function within the application.
@@ -45,6 +47,9 @@ The application will launch, presenting you with the main menu screen.
 From the main menu, you can explore different functionalities such as starting the game, accessing the poker hand guide, adjusting settings, or quitting the application.
 By running the App.java file, you can interact with the entire project and experience its various features and functionalities.
 
+## Here is the Demo of the Poker Hand GUI application
+
+https://github.com/diemmylelelele/Poker-Hand-GUI/assets/119517712/83af1055-159c-4711-ba69-4246b0a4fb57
 
 
 
